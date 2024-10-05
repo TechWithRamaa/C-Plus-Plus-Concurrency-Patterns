@@ -14,7 +14,7 @@ Follow these steps to set up and build the project:
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/TechWithRamaa/C-Plus-Plus-Concurrency-Patterns.git
+   git clone https://github.com/TechWithRamaa/C-Plus-Plus-Concurrency-Patterns.git
    cd C-Plus-Plus-Concurrency-Patterns/HelloWorld
 
 
