@@ -27,6 +27,8 @@ Follow these steps to set up and build the project:
 3. **Run CMake**
 
    ```bash
+   rm CMakeCache.txt
+   rm -rf CMakeFiles
    cmake -G "Unix Makefiles" ..
 
 4. **Run Make**
@@ -37,7 +39,7 @@ Follow these steps to set up and build the project:
 5. **Run the Executable**
 
    ```bash
-   ./build/src/HelloWorld.exe
+   ./src/HelloWorld.exe
 
 6. **Adding Modules**
 
