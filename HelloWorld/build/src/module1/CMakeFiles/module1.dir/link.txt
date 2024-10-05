@@ -1,2 +1,0 @@
-C:/Users/Ramaa/scoop/apps/gcc/current/bin/ar.exe qc libmodule1.a CMakeFiles/module1.dir/module1.cpp.obj
-C:/Users/Ramaa/scoop/apps/gcc/current/bin/ranlib.exe libmodule1.a
